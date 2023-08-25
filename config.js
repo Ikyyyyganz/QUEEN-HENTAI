@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['6283137808331', 'kyy', true],
-  ['6283137808331', 'kyy', true], 
+  ['628385566929', 'Kyy Ochimaru', true],
+  ['628385566929', 'Dickyy', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['6283137808331','94740804536'] 
-global.prems = ['6283137808331', '94740804536', '94740804536']
+global.mods = ['628385566929','6283850181314'] 
+global.prems = ['6283810581314', '6283850181314', '628385566929']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = 'HENTAI BOT'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
+global.packname = 'HENTAI BOT Di buat Oleh Kyy Ochimaru' 
+global.author = 'HENTAI BOT ' 
+global.igfg = '▢ Follow on Instagram\n' 
+global.dygp = ''
+global.fgsc = '628385566929. CHAT OWNER UNTUK SCRIPT NYA' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*Waiting Bro Uploading by Queen Hentai '
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
